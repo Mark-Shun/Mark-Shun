@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mark-Shun/Mark-Shun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Cool sliding Typograssy](https://typograssy.deno.dev/api?text=Hello%20visitor,%20to%20Mark%20Shun's%20profile%20:%20&speed=150&comment=Generated%20by%20Mark-Shun%20using%20kawarimidoll/typograssy)
+### Hello 👨‍💻
+### Highlighted repositories
+
+<p align="center">
+<a href="https://github.com/Mark-Shun/Alisa-bot"><img alt="Alisa-bot" src="assets/alisa-bot.jpg" style="width:380px"></a>
+</p>
