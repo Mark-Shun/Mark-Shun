@@ -17,10 +17,3 @@ Here are some ideas to get you started:
 # Hello 👨‍💻
 
 I'm somewhat new to programming and hope to work on some nifty projects here.
-
-### Highlighted repositories
-
-<p align="center">
-<a href="https://github.com/Mark-Shun/Alisa-bot"><img alt="Alisa-bot" src="assets/alisa-bot.jpg" style="width:380px"></a>
-<a href="https://github.com/Mark-Shun/Cutie-Roto"><img alt="Cutie-roto" src="assets/cutie-roto.jpg" style="width:380px"></a>
-</p>
